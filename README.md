@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Aniket Kumar
 
-<!--
-**aniketdevlp/aniketdevlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | DSA Enthusiast | AI/ML Learner
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE Student at Delhi Technological University
+- 🧠 Solved 1000+ DSA problems across LeetCode, Codeforces & CodeChef
+- 🚀 Building real-world web applications using modern technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 📌 Projects
+
+## 🥗 Healthy Food Web App
+Developed a Healthy Food web app using a Nutrition API to fetch and display real-time healthy meal options based on user preferences.
+
+## 📝 Blog Application
+Built a dynamic blog website using Node.js and EJS with complete CRUD functionality.
+
+---
+
+# 🌐 Profiles
+
+- 🧠 LeetCode: https://leetcode.com/u/aniketHacker/
+- 🔗 LinkedIn: https://linkedin.com/in/aniketdevlp
+- 📺 YouTube: https://youtube.com/@aniketdevlp
+
+---
+
+# 📫 Connect With Me
+
+📧 aniketdevlp@gmail.com
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy solving challenging DSA problems, building web applications, learning new technologies, and creating coding content.
