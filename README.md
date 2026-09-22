@@ -38,11 +38,11 @@
 
 # 📌 Projects
 
-## 🥗 Healthy Food Web App
-Developed a Healthy Food web app using a Nutrition API to fetch and display real-time healthy meal options based on user preferences.
+## QuickAI
+An all-in-one AI SaaS platform for content creation, image generation, visual editing, and resume analysis, complete with user billing and an interactive community gallery.
 
-## 📝 Blog Application
-Built a dynamic blog website using Node.js and EJS with complete CRUD functionality.
+## Quick Chat
+A full-stack Real-Time Chat Application built using the MERN stack with Socket.IO for real-time communication. The application provides secure authentication, real-time messaging, online user tracking, and media sharing.
 
 ---
 
